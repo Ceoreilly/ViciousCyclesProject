@@ -1,0 +1,66 @@
+/* index.css for project x */
+/* Claire O'Reilly */
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 4em;
+    font-display: #010B5B; /*010b5b*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.listdiv{
+    text-align: center;
+}
+ul li {
+    display: inline;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+a {
+    color: rgb(184, 139, 54);
+    text-shadow: -0.1px -.1px 0 rgb(253, 253, 253), .1px -.1px 0 rgb(254, 252, 252), -.1px .1px 0 rgb(251, 247, 247), .1px .1px 0 rgb(249, 247, 247);
+
+}
+body {
+    background-color: #336853;
+    margin: 10%;
+    color: white;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.imgstyle {
+    float: right;
+    max-width: 400px;
+    max-height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    object-fit: contain;
+    word-wrap: normal;
+}
+.footerlink {
+    max-width: 40px;
+    max-height: 40px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    /*width: 10%;*/
+}
+footer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+.stroke {
+    /*color: rgb(255, 253, 253);*/
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
